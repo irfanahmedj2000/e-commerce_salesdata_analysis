@@ -1,0 +1,16 @@
+product_id,sku,category,vertical,Approved Date,cancellation_amount,reason,sub_reason,Is Courier Return,cancellation_type,cancellation_units
+CFTGDDBYMAZQCQ8X,WEEGRO-CT-M1,LivingRoomSF,SmallCoffeeTables,2026-05-08,1837.0,cancellation requested,mind changed,False,Customer,1
+CFTGDDBYMAZQCQ8X,WEEGRO-CT-M1,LivingRoomSF,SmallCoffeeTables,2026-05-08,1838.0,cancellation requested,mind changed,False,Customer,1
+CFTHGMJZGMGDGXZC,WEEGRO-CT-PLASTIC,LivingRoomSF,SmallCoffeeTables,2026-05-08,945.0,Seller did not handover,Seller did not handover,True,MarketPlace,1
+CFTHGMJZGMGDGXZC,WEEGRO-CT-PLASTIC,LivingRoomSF,SmallCoffeeTables,2026-05-08,953.0,cancellation requested,delivery time long,False,Customer,1
+CFTHGMJZGMGDGXZC,WEEGRO-CT-PLASTIC,LivingRoomSF,SmallCoffeeTables,2026-05-12,953.0,Other State Misroute,Other State Misroute,True,MarketPlace,1
+CFTHJ27TG4VKPZWM,WEEGRO-CT-TFLOWER,LivingRoomLF,CoffeeAndCentreTable,2026-05-01,2337.0,cancellation requested,expensive now,False,Customer,1
+CFTGDDBYMAZQCQ8X,WEEGRO-CT-M1,LivingRoomSF,SmallCoffeeTables,2026-05-13,1838.0,ORC validated with customer,ORC validated with customer,True,MarketPlace,1
+CFTGDDBYMAZQCQ8X,WEEGRO-CT-M1,LivingRoomSF,SmallCoffeeTables,2026-05-13,1833.0,ORC validated with customer,ORC validated with customer,True,MarketPlace,1
+CFTGDDBYMAZQCQ8X,WEEGRO-CT-M1,LivingRoomSF,SmallCoffeeTables,2026-05-07,1838.0,ORC validated with customer,ORC validated with customer,True,MarketPlace,1
+CFTGDDBYMAZQCQ8X,WEEGRO-CT-M1,LivingRoomSF,SmallCoffeeTables,2026-05-04,2181.0,cancellation requested,delivery time long,False,Customer,1
+CFTHGMJZGMGDGXZC,WEEGRO-CT-PLASTIC,LivingRoomSF,SmallCoffeeTables,2026-05-29,1921.0,cancellation requested,change ship address,False,Customer,2
+CFTHGMJZGMGDGXZC,WEEGRO-CT-PLASTIC,LivingRoomSF,SmallCoffeeTables,2026-05-04,962.0,shield cancellation,shield cancellation,False,MarketPlace,1
+CFTHGMJZGMGDGXZC,WEEGRO-CT-PLASTIC,LivingRoomSF,SmallCoffeeTables,2026-05-05,962.0,order cancelled,mind changed,True,Customer,1
+CFTGDDBYMAZQCQ8X,WEEGRO-CT-M1,LivingRoomSF,SmallCoffeeTables,2026-05-30,1835.0,cancellation requested,delivery time long,False,Customer,1
+CFTHGMJZGMGDGXZC,WEEGRO-CT-PLASTIC,LivingRoomSF,SmallCoffeeTables,2026-05-20,945.0,ORC validated with customer,ORC validated with customer,True,MarketPlace,1
